@@ -161,12 +161,12 @@ newpitchdata %>%
 ```
 
 ```{=html}
-<div id="tnvsgwfqwx" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="kffznqzxml" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tnvsgwfqwx .gt_table {
+#kffznqzxml .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -191,7 +191,7 @@ newpitchdata %>%
   border-left-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_heading {
+#kffznqzxml .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -203,7 +203,7 @@ newpitchdata %>%
   border-right-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_title {
+#kffznqzxml .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -215,7 +215,7 @@ newpitchdata %>%
   border-bottom-width: 0;
 }
 
-#tnvsgwfqwx .gt_subtitle {
+#kffznqzxml .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -227,13 +227,13 @@ newpitchdata %>%
   border-top-width: 0;
 }
 
-#tnvsgwfqwx .gt_bottom_border {
+#kffznqzxml .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_col_headings {
+#kffznqzxml .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -248,7 +248,7 @@ newpitchdata %>%
   border-right-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_col_heading {
+#kffznqzxml .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -268,7 +268,7 @@ newpitchdata %>%
   overflow-x: hidden;
 }
 
-#tnvsgwfqwx .gt_column_spanner_outer {
+#kffznqzxml .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -280,15 +280,15 @@ newpitchdata %>%
   padding-right: 4px;
 }
 
-#tnvsgwfqwx .gt_column_spanner_outer:first-child {
+#kffznqzxml .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tnvsgwfqwx .gt_column_spanner_outer:last-child {
+#kffznqzxml .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tnvsgwfqwx .gt_column_spanner {
+#kffznqzxml .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -300,7 +300,7 @@ newpitchdata %>%
   width: 100%;
 }
 
-#tnvsgwfqwx .gt_group_heading {
+#kffznqzxml .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -325,7 +325,7 @@ newpitchdata %>%
   vertical-align: middle;
 }
 
-#tnvsgwfqwx .gt_empty_group_heading {
+#kffznqzxml .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -340,15 +340,15 @@ newpitchdata %>%
   vertical-align: middle;
 }
 
-#tnvsgwfqwx .gt_from_md > :first-child {
+#kffznqzxml .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tnvsgwfqwx .gt_from_md > :last-child {
+#kffznqzxml .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tnvsgwfqwx .gt_row {
+#kffznqzxml .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -367,7 +367,7 @@ newpitchdata %>%
   overflow-x: hidden;
 }
 
-#tnvsgwfqwx .gt_stub {
+#kffznqzxml .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -380,7 +380,7 @@ newpitchdata %>%
   padding-right: 5px;
 }
 
-#tnvsgwfqwx .gt_stub_row_group {
+#kffznqzxml .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -394,11 +394,11 @@ newpitchdata %>%
   vertical-align: top;
 }
 
-#tnvsgwfqwx .gt_row_group_first td {
+#kffznqzxml .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#tnvsgwfqwx .gt_summary_row {
+#kffznqzxml .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -408,16 +408,16 @@ newpitchdata %>%
   padding-right: 5px;
 }
 
-#tnvsgwfqwx .gt_first_summary_row {
+#kffznqzxml .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_first_summary_row.thick {
+#kffznqzxml .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#tnvsgwfqwx .gt_last_summary_row {
+#kffznqzxml .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -427,7 +427,7 @@ newpitchdata %>%
   border-bottom-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_grand_summary_row {
+#kffznqzxml .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -437,7 +437,7 @@ newpitchdata %>%
   padding-right: 5px;
 }
 
-#tnvsgwfqwx .gt_first_grand_summary_row {
+#kffznqzxml .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -447,11 +447,11 @@ newpitchdata %>%
   border-top-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_striped {
+#kffznqzxml .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tnvsgwfqwx .gt_table_body {
+#kffznqzxml .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -460,7 +460,7 @@ newpitchdata %>%
   border-bottom-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_footnotes {
+#kffznqzxml .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -474,7 +474,7 @@ newpitchdata %>%
   border-right-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_footnote {
+#kffznqzxml .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -483,7 +483,7 @@ newpitchdata %>%
   padding-right: 5px;
 }
 
-#tnvsgwfqwx .gt_sourcenotes {
+#kffznqzxml .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -497,7 +497,7 @@ newpitchdata %>%
   border-right-color: #D3D3D3;
 }
 
-#tnvsgwfqwx .gt_sourcenote {
+#kffznqzxml .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -505,60 +505,60 @@ newpitchdata %>%
   padding-right: 5px;
 }
 
-#tnvsgwfqwx .gt_left {
+#kffznqzxml .gt_left {
   text-align: left;
 }
 
-#tnvsgwfqwx .gt_center {
+#kffznqzxml .gt_center {
   text-align: center;
 }
 
-#tnvsgwfqwx .gt_right {
+#kffznqzxml .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tnvsgwfqwx .gt_font_normal {
+#kffznqzxml .gt_font_normal {
   font-weight: normal;
 }
 
-#tnvsgwfqwx .gt_font_bold {
+#kffznqzxml .gt_font_bold {
   font-weight: bold;
 }
 
-#tnvsgwfqwx .gt_font_italic {
+#kffznqzxml .gt_font_italic {
   font-style: italic;
 }
 
-#tnvsgwfqwx .gt_super {
+#kffznqzxml .gt_super {
   font-size: 65%;
 }
 
-#tnvsgwfqwx .gt_footnote_marks {
+#kffznqzxml .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#tnvsgwfqwx .gt_asterisk {
+#kffznqzxml .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#tnvsgwfqwx .gt_slash_mark {
+#kffznqzxml .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#tnvsgwfqwx .gt_fraction_numerator {
+#kffznqzxml .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#tnvsgwfqwx .gt_fraction_denominator {
+#kffznqzxml .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;
@@ -5572,6 +5572,6 @@ anim_save("Question8.gif")
 
 9. Below, provide a link to your GitHub repo with this set of Weekly Exercises. 
 
-Main page: [here]()
+Main page: [here](https://github.com/ebergin12/Exercise6)
 
-md file: [here]()
+md file: [here](https://github.com/ebergin12/Exercise6/blob/main/06_exercises.md)

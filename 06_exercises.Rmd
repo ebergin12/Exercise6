@@ -303,6 +303,6 @@ knitr::include_graphics("Question8.gif")
 
 9. Below, provide a link to your GitHub repo with this set of Weekly Exercises. 
 
-Main page: [here]()
+Main page: [here](https://github.com/ebergin12/Exercise6)
 
-md file: [here]()
+md file: [here](https://github.com/ebergin12/Exercise6/blob/main/06_exercises.md)
